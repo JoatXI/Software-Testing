@@ -1,5 +1,5 @@
 class Car:
-    def __init__(self, current_speed, max_speed, fuel_level):
+    def __init__(self, current_speed, max_speed):
         self.current_speed = current_speed
         self.max_speed = max_speed
         self.fuel_level = 0
